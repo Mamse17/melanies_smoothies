@@ -1,0 +1,18 @@
+{
+ "id": "H_nama_A_madda",
+ "text": "نَآمَ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "نَآمَ",
+ "marks": [
+  {
+   "text": "نَآمَ",
+   "start": 0.1125,
+   "end": 0.596875
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.6125,
+   "end": 1.096875
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "H_lina_W_madda",
+ "text": "لِيٓنَا كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "لِيٓنَا",
+ "marks": [
+  {
+   "text": "لِيٓنَا",
+   "start": 0.1125,
+   "end": 0.64375
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.659375,
+   "end": 1.175
+  }
+ ]
+}

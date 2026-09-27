@@ -1,0 +1,18 @@
+{
+ "id": "S_huna_A_fathaalif2",
+ "text": "هُنَاَا كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "هُنَاَا",
+ "marks": [
+  {
+   "text": "هُنَاَا",
+   "start": 0.109375,
+   "end": 0.5
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.5,
+   "end": 1.125
+  }
+ ]
+}

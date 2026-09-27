@@ -1,0 +1,18 @@
+{
+ "id": "H_mumu_W_madda",
+ "text": "مُوٓمُوٓ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "مُوٓمُوٓ",
+ "marks": [
+  {
+   "text": "مُوٓمُوٓ",
+   "start": 0.1125,
+   "end": 0.721875
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.7375,
+   "end": 1.284375
+  }
+ ]
+}

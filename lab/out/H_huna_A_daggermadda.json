@@ -1,0 +1,18 @@
+{
+ "id": "H_huna_A_daggermadda",
+ "text": "هُنَٰٓ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "هُنَٰٓ",
+ "marks": [
+  {
+   "text": "هُنَٰٓ",
+   "start": 0.1125,
+   "end": 0.4875
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.503125,
+   "end": 1.034375
+  }
+ ]
+}

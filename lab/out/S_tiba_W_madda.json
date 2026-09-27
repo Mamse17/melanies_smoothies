@@ -1,0 +1,18 @@
+{
+ "id": "S_tiba_W_madda",
+ "text": "تِيٓبَا كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "تِيٓبَا",
+ "marks": [
+  {
+   "text": "تِيٓبَا",
+   "start": 0.128125,
+   "end": 0.565625
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.565625,
+   "end": 1.20625
+  }
+ ]
+}

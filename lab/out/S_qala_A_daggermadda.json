@@ -1,0 +1,18 @@
+{
+ "id": "S_qala_A_daggermadda",
+ "text": "قَٰٓلَ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "قَٰٓلَ",
+ "marks": [
+  {
+   "text": "قَٰٓلَ",
+   "start": 0.128125,
+   "end": 0.409375
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.409375,
+   "end": 1.065625
+  }
+ ]
+}

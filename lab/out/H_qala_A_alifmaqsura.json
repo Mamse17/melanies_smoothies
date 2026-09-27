@@ -1,0 +1,18 @@
+{
+ "id": "H_qala_A_alifmaqsura",
+ "text": "قَاىلَ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "قَاىلَ",
+ "marks": [
+  {
+   "text": "قَاىلَ",
+   "start": 0.1125,
+   "end": 0.70625
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.721875,
+   "end": 1.20625
+  }
+ ]
+}

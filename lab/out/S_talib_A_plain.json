@@ -1,0 +1,18 @@
+{
+ "id": "S_talib_A_plain",
+ "text": "طَالِبْ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "طَالِبْ",
+ "marks": [
+  {
+   "text": "طَالِبْ",
+   "start": 0.128125,
+   "end": 0.596875
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.596875,
+   "end": 1.26875
+  }
+ ]
+}

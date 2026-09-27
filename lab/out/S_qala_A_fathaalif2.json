@@ -1,0 +1,18 @@
+{
+ "id": "S_qala_A_fathaalif2",
+ "text": "قَاَالَ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "قَاَالَ",
+ "marks": [
+  {
+   "text": "قَاَالَ",
+   "start": 0.1125,
+   "end": 0.753125
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.753125,
+   "end": 1.346875
+  }
+ ]
+}

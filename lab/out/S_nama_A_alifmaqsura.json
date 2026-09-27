@@ -1,0 +1,18 @@
+{
+ "id": "S_nama_A_alifmaqsura",
+ "text": "نَاىمَ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "نَاىمَ",
+ "marks": [
+  {
+   "text": "نَاىمَ",
+   "start": 0.1125,
+   "end": 0.70625
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.70625,
+   "end": 1.315625
+  }
+ ]
+}

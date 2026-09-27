@@ -1,0 +1,18 @@
+{
+ "id": "S_qala_A_alifmaqsura",
+ "text": "قَاىلَ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "قَاىلَ",
+ "marks": [
+  {
+   "text": "قَاىلَ",
+   "start": 0.1125,
+   "end": 0.690625
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.690625,
+   "end": 1.284375
+  }
+ ]
+}

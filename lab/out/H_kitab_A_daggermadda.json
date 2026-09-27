@@ -1,0 +1,18 @@
+{
+ "id": "H_kitab_A_daggermadda",
+ "text": "كِتَٰٓبْ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "كِتَٰٓبْ",
+ "marks": [
+  {
+   "text": "كِتَٰٓبْ",
+   "start": 0.1125,
+   "end": 0.55
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.565625,
+   "end": 1.065625
+  }
+ ]
+}

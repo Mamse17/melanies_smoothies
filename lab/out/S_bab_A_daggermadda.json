@@ -1,0 +1,18 @@
+{
+ "id": "S_bab_A_daggermadda",
+ "text": "بَٰٓبْ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "بَٰٓبْ",
+ "marks": [
+  {
+   "text": "بَٰٓبْ",
+   "start": 0.109375,
+   "end": 0.421875
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.421875,
+   "end": 1.15625
+  }
+ ]
+}

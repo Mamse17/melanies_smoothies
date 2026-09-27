@@ -1,0 +1,18 @@
+{
+ "id": "S_nama_A_plain",
+ "text": "نَامَ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "نَامَ",
+ "marks": [
+  {
+   "text": "نَامَ",
+   "start": 0.1125,
+   "end": 0.58125
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.58125,
+   "end": 1.221875
+  }
+ ]
+}
