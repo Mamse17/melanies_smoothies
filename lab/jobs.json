@@ -1,0 +1,782 @@
+[
+ {
+  "id": "H_kitab_seul",
+  "text": "كِتَابْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كِتَابْ"
+ },
+ {
+  "id": "H_kitab_temoin",
+  "text": "كِتَابْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كِتَابْ"
+ },
+ {
+  "id": "H_kitab_court",
+  "text": "كِتَبْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كِتَبْ"
+ },
+ {
+  "id": "H_bab_seul",
+  "text": "بَابْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بَابْ"
+ },
+ {
+  "id": "H_bab_temoin",
+  "text": "بَابْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بَابْ"
+ },
+ {
+  "id": "H_bab_court",
+  "text": "بَبْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بَبْ"
+ },
+ {
+  "id": "H_suq_seul",
+  "text": "سُوقْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "سُوقْ"
+ },
+ {
+  "id": "H_suq_temoin",
+  "text": "سُوقْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "سُوقْ"
+ },
+ {
+  "id": "H_suq_court",
+  "text": "سُقْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "سُقْ"
+ },
+ {
+  "id": "H_kabir_seul",
+  "text": "كَبِيرْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كَبِيرْ"
+ },
+ {
+  "id": "H_kabir_temoin",
+  "text": "كَبِيرْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كَبِيرْ"
+ },
+ {
+  "id": "H_kabir_court",
+  "text": "كَبِرْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كَبِرْ"
+ },
+ {
+  "id": "H_huna_seul",
+  "text": "هُنَا",
+  "voice": "ar-SA-HamedNeural",
+  "word": "هُنَا"
+ },
+ {
+  "id": "H_huna_temoin",
+  "text": "هُنَا كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "هُنَا"
+ },
+ {
+  "id": "H_fi_seul",
+  "text": "فِي",
+  "voice": "ar-SA-HamedNeural",
+  "word": "فِي"
+ },
+ {
+  "id": "H_fi_temoin",
+  "text": "فِي كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "فِي"
+ },
+ {
+  "id": "H_qala_seul",
+  "text": "قَالَ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "قَالَ"
+ },
+ {
+  "id": "H_qala_temoin",
+  "text": "قَالَ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "قَالَ"
+ },
+ {
+  "id": "H_qala_court",
+  "text": "قَلَ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "قَلَ"
+ },
+ {
+  "id": "H_nama_seul",
+  "text": "نَامَ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "نَامَ"
+ },
+ {
+  "id": "H_nama_temoin",
+  "text": "نَامَ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "نَامَ"
+ },
+ {
+  "id": "H_nama_court",
+  "text": "نَمَ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "نَمَ"
+ },
+ {
+  "id": "H_talib_seul",
+  "text": "طَالِبْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "طَالِبْ"
+ },
+ {
+  "id": "H_talib_temoin",
+  "text": "طَالِبْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "طَالِبْ"
+ },
+ {
+  "id": "H_talib_court",
+  "text": "طَلِبْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "طَلِبْ"
+ },
+ {
+  "id": "H_buyut_seul",
+  "text": "بُيُوتْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بُيُوتْ"
+ },
+ {
+  "id": "H_buyut_temoin",
+  "text": "بُيُوتْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بُيُوتْ"
+ },
+ {
+  "id": "H_buyut_court",
+  "text": "بُيُتْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بُيُتْ"
+ },
+ {
+  "id": "H_jamil_seul",
+  "text": "جَمِيلْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "جَمِيلْ"
+ },
+ {
+  "id": "H_jamil_temoin",
+  "text": "جَمِيلْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "جَمِيلْ"
+ },
+ {
+  "id": "H_jamil_court",
+  "text": "جَمِلْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "جَمِلْ"
+ },
+ {
+  "id": "H_rasul_seul",
+  "text": "رَسُولْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "رَسُولْ"
+ },
+ {
+  "id": "H_rasul_temoin",
+  "text": "رَسُولْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "رَسُولْ"
+ },
+ {
+  "id": "H_rasul_court",
+  "text": "رَسُلْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "رَسُلْ"
+ },
+ {
+  "id": "H_dar_seul",
+  "text": "دَارْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "دَارْ"
+ },
+ {
+  "id": "H_dar_temoin",
+  "text": "دَارْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "دَارْ"
+ },
+ {
+  "id": "H_dar_court",
+  "text": "دَرْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "دَرْ"
+ },
+ {
+  "id": "H_kutub_seul",
+  "text": "كُتُبْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كُتُبْ"
+ },
+ {
+  "id": "H_kutub_temoin",
+  "text": "كُتُبْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كُتُبْ"
+ },
+ {
+  "id": "H_kataba_seul",
+  "text": "كَتَبَ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كَتَبَ"
+ },
+ {
+  "id": "H_kataba_temoin",
+  "text": "كَتَبَ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كَتَبَ"
+ },
+ {
+  "id": "H_muallim_seul",
+  "text": "مُعَلِّمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "مُعَلِّمْ"
+ },
+ {
+  "id": "H_muallim_temoin",
+  "text": "مُعَلِّمْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "مُعَلِّمْ"
+ },
+ {
+  "id": "H_batu_seul",
+  "text": "بَاتُو",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بَاتُو"
+ },
+ {
+  "id": "H_batu_temoin",
+  "text": "بَاتُو كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بَاتُو"
+ },
+ {
+  "id": "H_batu_court",
+  "text": "بَتُو كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بَتُو"
+ },
+ {
+  "id": "H_tiba_seul",
+  "text": "تِيبَا",
+  "voice": "ar-SA-HamedNeural",
+  "word": "تِيبَا"
+ },
+ {
+  "id": "H_tiba_temoin",
+  "text": "تِيبَا كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "تِيبَا"
+ },
+ {
+  "id": "H_tiba_court",
+  "text": "تِبَا كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "تِبَا"
+ },
+ {
+  "id": "H_nabati_seul",
+  "text": "نَبَاتِي",
+  "voice": "ar-SA-HamedNeural",
+  "word": "نَبَاتِي"
+ },
+ {
+  "id": "H_nabati_temoin",
+  "text": "نَبَاتِي كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "نَبَاتِي"
+ },
+ {
+  "id": "H_nabati_court",
+  "text": "نَبَتِي كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "نَبَتِي"
+ },
+ {
+  "id": "H_binti_seul",
+  "text": "بِنْتِي",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بِنْتِي"
+ },
+ {
+  "id": "H_binti_temoin",
+  "text": "بِنْتِي كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بِنْتِي"
+ },
+ {
+  "id": "H_lina_seul",
+  "text": "لِينَا",
+  "voice": "ar-SA-HamedNeural",
+  "word": "لِينَا"
+ },
+ {
+  "id": "H_lina_temoin",
+  "text": "لِينَا كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "لِينَا"
+ },
+ {
+  "id": "H_lina_court",
+  "text": "لِنَا كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "لِنَا"
+ },
+ {
+  "id": "H_mumu_seul",
+  "text": "مُومُو",
+  "voice": "ar-SA-HamedNeural",
+  "word": "مُومُو"
+ },
+ {
+  "id": "H_mumu_temoin",
+  "text": "مُومُو كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "مُومُو"
+ },
+ {
+  "id": "H_mumu_court",
+  "text": "مُمُو كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "مُمُو"
+ },
+ {
+  "id": "S_kitab_seul",
+  "text": "كِتَابْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "كِتَابْ"
+ },
+ {
+  "id": "S_kitab_temoin",
+  "text": "كِتَابْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "كِتَابْ"
+ },
+ {
+  "id": "S_kitab_court",
+  "text": "كِتَبْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "كِتَبْ"
+ },
+ {
+  "id": "S_bab_seul",
+  "text": "بَابْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بَابْ"
+ },
+ {
+  "id": "S_bab_temoin",
+  "text": "بَابْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بَابْ"
+ },
+ {
+  "id": "S_bab_court",
+  "text": "بَبْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بَبْ"
+ },
+ {
+  "id": "S_suq_seul",
+  "text": "سُوقْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "سُوقْ"
+ },
+ {
+  "id": "S_suq_temoin",
+  "text": "سُوقْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "سُوقْ"
+ },
+ {
+  "id": "S_suq_court",
+  "text": "سُقْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "سُقْ"
+ },
+ {
+  "id": "S_kabir_seul",
+  "text": "كَبِيرْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "كَبِيرْ"
+ },
+ {
+  "id": "S_kabir_temoin",
+  "text": "كَبِيرْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "كَبِيرْ"
+ },
+ {
+  "id": "S_kabir_court",
+  "text": "كَبِرْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "كَبِرْ"
+ },
+ {
+  "id": "S_huna_seul",
+  "text": "هُنَا",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "هُنَا"
+ },
+ {
+  "id": "S_huna_temoin",
+  "text": "هُنَا كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "هُنَا"
+ },
+ {
+  "id": "S_fi_seul",
+  "text": "فِي",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "فِي"
+ },
+ {
+  "id": "S_fi_temoin",
+  "text": "فِي كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "فِي"
+ },
+ {
+  "id": "S_qala_seul",
+  "text": "قَالَ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "قَالَ"
+ },
+ {
+  "id": "S_qala_temoin",
+  "text": "قَالَ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "قَالَ"
+ },
+ {
+  "id": "S_qala_court",
+  "text": "قَلَ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "قَلَ"
+ },
+ {
+  "id": "S_nama_seul",
+  "text": "نَامَ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "نَامَ"
+ },
+ {
+  "id": "S_nama_temoin",
+  "text": "نَامَ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "نَامَ"
+ },
+ {
+  "id": "S_nama_court",
+  "text": "نَمَ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "نَمَ"
+ },
+ {
+  "id": "S_talib_seul",
+  "text": "طَالِبْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "طَالِبْ"
+ },
+ {
+  "id": "S_talib_temoin",
+  "text": "طَالِبْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "طَالِبْ"
+ },
+ {
+  "id": "S_talib_court",
+  "text": "طَلِبْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "طَلِبْ"
+ },
+ {
+  "id": "S_buyut_seul",
+  "text": "بُيُوتْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بُيُوتْ"
+ },
+ {
+  "id": "S_buyut_temoin",
+  "text": "بُيُوتْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بُيُوتْ"
+ },
+ {
+  "id": "S_buyut_court",
+  "text": "بُيُتْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بُيُتْ"
+ },
+ {
+  "id": "S_jamil_seul",
+  "text": "جَمِيلْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "جَمِيلْ"
+ },
+ {
+  "id": "S_jamil_temoin",
+  "text": "جَمِيلْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "جَمِيلْ"
+ },
+ {
+  "id": "S_jamil_court",
+  "text": "جَمِلْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "جَمِلْ"
+ },
+ {
+  "id": "S_rasul_seul",
+  "text": "رَسُولْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "رَسُولْ"
+ },
+ {
+  "id": "S_rasul_temoin",
+  "text": "رَسُولْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "رَسُولْ"
+ },
+ {
+  "id": "S_rasul_court",
+  "text": "رَسُلْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "رَسُلْ"
+ },
+ {
+  "id": "S_dar_seul",
+  "text": "دَارْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "دَارْ"
+ },
+ {
+  "id": "S_dar_temoin",
+  "text": "دَارْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "دَارْ"
+ },
+ {
+  "id": "S_dar_court",
+  "text": "دَرْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "دَرْ"
+ },
+ {
+  "id": "S_kutub_seul",
+  "text": "كُتُبْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "كُتُبْ"
+ },
+ {
+  "id": "S_kutub_temoin",
+  "text": "كُتُبْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "كُتُبْ"
+ },
+ {
+  "id": "S_kataba_seul",
+  "text": "كَتَبَ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "كَتَبَ"
+ },
+ {
+  "id": "S_kataba_temoin",
+  "text": "كَتَبَ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "كَتَبَ"
+ },
+ {
+  "id": "S_muallim_seul",
+  "text": "مُعَلِّمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "مُعَلِّمْ"
+ },
+ {
+  "id": "S_muallim_temoin",
+  "text": "مُعَلِّمْ كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "مُعَلِّمْ"
+ },
+ {
+  "id": "S_batu_seul",
+  "text": "بَاتُو",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بَاتُو"
+ },
+ {
+  "id": "S_batu_temoin",
+  "text": "بَاتُو كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بَاتُو"
+ },
+ {
+  "id": "S_batu_court",
+  "text": "بَتُو كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بَتُو"
+ },
+ {
+  "id": "S_tiba_seul",
+  "text": "تِيبَا",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "تِيبَا"
+ },
+ {
+  "id": "S_tiba_temoin",
+  "text": "تِيبَا كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "تِيبَا"
+ },
+ {
+  "id": "S_tiba_court",
+  "text": "تِبَا كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "تِبَا"
+ },
+ {
+  "id": "S_nabati_seul",
+  "text": "نَبَاتِي",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "نَبَاتِي"
+ },
+ {
+  "id": "S_nabati_temoin",
+  "text": "نَبَاتِي كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "نَبَاتِي"
+ },
+ {
+  "id": "S_nabati_court",
+  "text": "نَبَتِي كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "نَبَتِي"
+ },
+ {
+  "id": "S_binti_seul",
+  "text": "بِنْتِي",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بِنْتِي"
+ },
+ {
+  "id": "S_binti_temoin",
+  "text": "بِنْتِي كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "بِنْتِي"
+ },
+ {
+  "id": "S_lina_seul",
+  "text": "لِينَا",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "لِينَا"
+ },
+ {
+  "id": "S_lina_temoin",
+  "text": "لِينَا كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "لِينَا"
+ },
+ {
+  "id": "S_lina_court",
+  "text": "لِنَا كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "لِنَا"
+ },
+ {
+  "id": "S_mumu_seul",
+  "text": "مُومُو",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "مُومُو"
+ },
+ {
+  "id": "S_mumu_temoin",
+  "text": "مُومُو كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "مُومُو"
+ },
+ {
+  "id": "S_mumu_court",
+  "text": "مُمُو كَمْ",
+  "voice": "ar-EG-ShakirNeural",
+  "word": "مُمُو"
+ },
+ {
+  "id": "H_kitab_madda",
+  "text": "كِتَآبْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كِتَآبْ"
+ },
+ {
+  "id": "H_kitab_tatwil",
+  "text": "كِتَاـــبْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كِتَاـــبْ"
+ },
+ {
+  "id": "H_bab_madda",
+  "text": "بَآبْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بَآبْ"
+ },
+ {
+  "id": "H_bab_tatwil",
+  "text": "بَاـــبْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "بَاـــبْ"
+ },
+ {
+  "id": "H_suq_madda",
+  "text": "سُوٓقْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "سُوٓقْ"
+ },
+ {
+  "id": "H_suq_tatwil",
+  "text": "سُوـــقْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "سُوـــقْ"
+ },
+ {
+  "id": "H_kabir_madda",
+  "text": "كَبِيٓرْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كَبِيٓرْ"
+ },
+ {
+  "id": "H_kabir_tatwil",
+  "text": "كَبِيـــرْ كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "كَبِيـــرْ"
+ },
+ {
+  "id": "H_huna_madda",
+  "text": "هُنَا كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "هُنَا"
+ },
+ {
+  "id": "H_huna_tatwil",
+  "text": "هُنَا كَمْ",
+  "voice": "ar-SA-HamedNeural",
+  "word": "هُنَا"
+ }
+]
