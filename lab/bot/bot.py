@@ -1039,9 +1039,15 @@ def locate_long_vowels(final: "np.ndarray", probe: "np.ndarray", probe_marks: li
         fa, fb = to_final(vowel[0]), to_final(vowel[1]) + hop
         lo, hi = max(syl_a, fa - 3 * hop // 2), min(syl_b, fb + 3 * hop // 2)
         refined = _vowel_part(final, lo, hi, sonorant) if hi - lo > 0.05 * SAMPLE_RATE else None
-        if not refined:
-            refined = (max(fa, syl_a), min(fb, syl_b))
-        if refined[1] - refined[0] > 0.04 * SAMPLE_RATE:
+        mapped = (max(fa, syl_a), min(fb, syl_b))
+        min_len = 0.04 * SAMPLE_RATE
+        if not refined or refined[1] - refined[0] < 0.6 * (mapped[1] - mapped[0]):
+            refined = mapped            # affinage douteux : on garde la zone donnée par l'alignement
+        if refined[1] - refined[0] < min_len:
+            # la voix a prononcé cette voyelle longue presque brève : on la cherche dans
+            # toute la syllabe (c'est justement là que l'allongement est le plus utile)
+            refined = _vowel_part(final, syl_a, syl_b, sonorant) or refined
+        if refined[1] - refined[0] > min_len:
             current = (refined[1] - refined[0]) / SAMPLE_RATE
             found.append((refined[0], refined[1], max(MADD_MIN_ADD, MADD_TARGET - current)))
     # jamais deux zones qui se chevauchent

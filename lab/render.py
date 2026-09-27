@@ -20,11 +20,12 @@ cfg = json.loads((root / "render.json").read_text(encoding="utf-8"))
 
 async def main():
     for voice in cfg["voices"]:
+      for rate in cfg.get("rates", [cfg.get("rate", "-20%")]):
         for i, words in enumerate(cfg["items"]):
             for mode in ("normal", "difficile"):
-                name = f"{voice.split('-')[2][:5]}_{i:02d}_{mode}"
+                name = f"{voice.split('-')[2][:5]}_{rate}_{i:02d}_{mode}"
                 try:
-                    audio, fname = await bot.render_audio(words, voice, cfg.get("rate", "-20%"),
+                    audio, fname = await bot.render_audio(words, voice, rate,
                                                           cfg.get("pause", 1.0), stretch=(mode == "normal"))
                     (out / f"{name}.mp3").write_bytes(audio)
                     (out / f"{name}.json").write_text(json.dumps({"words": words, "voice": voice, "mode": mode},
