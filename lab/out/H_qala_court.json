@@ -1,0 +1,18 @@
+{
+ "id": "H_qala_court",
+ "text": "قَلَ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "قَلَ",
+ "marks": [
+  {
+   "text": "قَلَ",
+   "start": 0.1125,
+   "end": 0.45625
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.471875,
+   "end": 0.9875
+  }
+ ]
+}

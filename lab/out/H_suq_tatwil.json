@@ -1,0 +1,18 @@
+{
+ "id": "H_suq_tatwil",
+ "text": "سُوـــقْ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "سُوـــقْ",
+ "marks": [
+  {
+   "text": "سُوـــقْ",
+   "start": 0.1125,
+   "end": 0.503125
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.51875,
+   "end": 1.065625
+  }
+ ]
+}

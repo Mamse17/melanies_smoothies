@@ -1,0 +1,18 @@
+{
+ "id": "S_kabir_court",
+ "text": "كَبِرْ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "كَبِرْ",
+ "marks": [
+  {
+   "text": "كَبِرْ",
+   "start": 0.128125,
+   "end": 0.4875
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.4875,
+   "end": 1.128125
+  }
+ ]
+}

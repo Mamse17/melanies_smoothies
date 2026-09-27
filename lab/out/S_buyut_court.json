@@ -1,0 +1,18 @@
+{
+ "id": "S_buyut_court",
+ "text": "بُيُتْ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "بُيُتْ",
+ "marks": [
+  {
+   "text": "بُيُتْ",
+   "start": 0.1125,
+   "end": 0.596875
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.596875,
+   "end": 1.26875
+  }
+ ]
+}

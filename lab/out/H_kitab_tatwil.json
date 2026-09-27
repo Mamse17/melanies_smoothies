@@ -1,0 +1,18 @@
+{
+ "id": "H_kitab_tatwil",
+ "text": "كِتَاـــبْ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "كِتَاـــبْ",
+ "marks": [
+  {
+   "text": "كِتَاـــبْ",
+   "start": 0.1125,
+   "end": 0.628125
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.64375,
+   "end": 1.190625
+  }
+ ]
+}

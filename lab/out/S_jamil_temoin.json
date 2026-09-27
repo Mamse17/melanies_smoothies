@@ -1,0 +1,18 @@
+{
+ "id": "S_jamil_temoin",
+ "text": "جَمِيلْ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "جَمِيلْ",
+ "marks": [
+  {
+   "text": "جَمِيلْ",
+   "start": 0.1,
+   "end": 0.740625
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.740625,
+   "end": 1.38125
+  }
+ ]
+}

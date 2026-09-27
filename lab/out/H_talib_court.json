@@ -1,0 +1,18 @@
+{
+ "id": "H_talib_court",
+ "text": "طَلِبْ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "طَلِبْ",
+ "marks": [
+  {
+   "text": "طَلِبْ",
+   "start": 0.1125,
+   "end": 0.45625
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.471875,
+   "end": 0.95625
+  }
+ ]
+}

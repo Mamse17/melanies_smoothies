@@ -1,0 +1,18 @@
+{
+ "id": "H_kabir_madda",
+ "text": "كَبِيٓرْ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "كَبِيٓرْ",
+ "marks": [
+  {
+   "text": "كَبِيٓرْ",
+   "start": 0.1125,
+   "end": 0.6125
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.628125,
+   "end": 1.190625
+  }
+ ]
+}
