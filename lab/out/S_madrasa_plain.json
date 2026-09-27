@@ -1,0 +1,18 @@
+{
+ "id": "S_madrasa_plain",
+ "text": "مِفْتَاحْ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "مِفْتَاحْ",
+ "marks": [
+  {
+   "text": "مِفْتَاحْ",
+   "start": 0.1125,
+   "end": 0.83125
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.83125,
+   "end": 1.4875
+  }
+ ]
+}

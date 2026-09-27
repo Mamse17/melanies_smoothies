@@ -1,0 +1,18 @@
+{
+ "id": "H_rasul_plain",
+ "text": "رَسُولْ كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "رَسُولْ",
+ "marks": [
+  {
+   "text": "رَسُولْ",
+   "start": 0.1125,
+   "end": 0.7375
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.753125,
+   "end": 1.3
+  }
+ ]
+}

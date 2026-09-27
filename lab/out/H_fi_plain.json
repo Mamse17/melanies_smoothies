@@ -1,0 +1,18 @@
+{
+ "id": "H_fi_plain",
+ "text": "فِي كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "فِي",
+ "marks": [
+  {
+   "text": "فِي",
+   "start": 0.1125,
+   "end": 0.425
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.440625,
+   "end": 0.925
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "S_dar_plain",
+ "text": "دَارْ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "دَارْ",
+ "marks": [
+  {
+   "text": "دَارْ",
+   "start": 0.10625,
+   "end": 0.41875
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.41875,
+   "end": 1.1375
+  }
+ ]
+}

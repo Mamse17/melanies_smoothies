@@ -1,0 +1,18 @@
+{
+ "id": "H_batu_shy",
+ "text": "بَا­­تُو كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "بَا­­تُو",
+ "marks": [
+  {
+   "text": "بَا­­تُو",
+   "start": 0.1125,
+   "end": 0.675
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.690625,
+   "end": 1.175
+  }
+ ]
+}

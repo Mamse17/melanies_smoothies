@@ -1,0 +1,18 @@
+{
+ "id": "S_suq_shy",
+ "text": "سُو­قْ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "سُو­قْ",
+ "marks": [
+  {
+   "text": "سُو­قْ",
+   "start": 0.1125,
+   "end": 0.596875
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.596875,
+   "end": 1.284375
+  }
+ ]
+}

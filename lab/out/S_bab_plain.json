@@ -1,0 +1,18 @@
+{
+ "id": "S_bab_plain",
+ "text": "بَابْ كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "بَابْ",
+ "marks": [
+  {
+   "text": "بَابْ",
+   "start": 0.109375,
+   "end": 0.421875
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.421875,
+   "end": 1.171875
+  }
+ ]
+}

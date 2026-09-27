@@ -1,0 +1,18 @@
+{
+ "id": "H_tiba_plain",
+ "text": "تِيبَا كَمْ",
+ "voice": "ar-SA-HamedNeural",
+ "word": "تِيبَا",
+ "marks": [
+  {
+   "text": "تِيبَا",
+   "start": 0.1125,
+   "end": 0.58125
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.596875,
+   "end": 1.096875
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "S_huna_plain",
+ "text": "هُنَا كَمْ",
+ "voice": "ar-EG-ShakirNeural",
+ "word": "هُنَا",
+ "marks": [
+  {
+   "text": "هُنَا",
+   "start": 0.109375,
+   "end": 0.515625
+  },
+  {
+   "text": "كَمْ",
+   "start": 0.515625,
+   "end": 1.140625
+  }
+ ]
+}
