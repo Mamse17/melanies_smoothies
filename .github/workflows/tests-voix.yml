@@ -2,22 +2,23 @@ name: tests-voix
 on:
   push:
     branches: [tests-voix]
-    paths: ['lab/jobs.json', 'lab/collect.py', '.github/workflows/tests-voix.yml']
+    paths: ['lab/jobs.json', 'lab/collect.py', 'lab/render.json', 'lab/render.py', 'lab/bot/**', '.github/workflows/tests-voix.yml']
 permissions:
   contents: write
 jobs:
-  collect:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install "edge-tts>=7,<8"
+      - run: pip install -r lab/bot/requirements.txt
       - run: python lab/collect.py
+      - run: python lab/render.py
       - run: |
           git config user.name "voice-lab"
           git config user.email "voice-lab@users.noreply.github.com"
-          git add lab/out
+          git add lab/out lab/render
           git commit -m "Résultats voix" || echo "rien à commiter"
           git push
